@@ -51,11 +51,11 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#060316",
+      "#3E2849",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#060316",
+      "#3E2849",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -79,7 +79,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#562C72",
       "#ffffff"
     ],
     
@@ -104,7 +104,7 @@
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#333333",
+      "#53266A",
       "#ffffff"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -112,7 +112,7 @@
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#333333",
+      "#53266A",
       "#ffffff"
     ],
     "SCROLLBAR_AUTO_TRACK": [
@@ -139,7 +139,7 @@
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#000000",
+      "#562C72",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
@@ -164,11 +164,11 @@
     "PLUM_10": "#828490",
     "PLUM_11": "#000000",
     "PLUM_13": "#562C72",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#000000",
-    "PLUM_19": "#000000",
-    "PLUM_20": "#000000",
-    "PLUM_22": "#000000",
+    "PLUM_17": "#8F5CA8",
+    "PLUM_18": "#8F5CA8",
+    "PLUM_19": "#8F5CA8",
+    "PLUM_20": "#8F5CA8",
+    "PLUM_22": "#8F5CA8",
     "BRAND_NEW_260": "#8a94a8",
     "BRAND_NEW_500": "#8F5CA8",
     "BRAND_NEW_900": "#ffffff",
@@ -182,4 +182,5 @@
     "CHAT_GREY": "#8E8E8E"
   }
 }
+
 

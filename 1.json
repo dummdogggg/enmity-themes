@@ -47,7 +47,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#060316",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -182,3 +182,4 @@
     "CHAT_GREY": "#8E8E8E"
   }
 }
+

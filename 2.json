@@ -22,11 +22,11 @@
         "#2e3338"
       ],
       "TEXT_MUTED": [
-        "#afc7e3",
+        "#2c006c",
         "#747f8d"
       ],
       "INTERACTIVE_NORMAL": [
-        "#42016b",
+        "#2c006c",
         "#4f5660"
       ],
       "INTERACTIVE_HOVER": [
@@ -34,11 +34,11 @@
         "#2e3338"
       ],
       "INTERACTIVE_ACTIVE": [
-        "#ffffff",
+        "#2c006c",
         "#060607"
       ],
       "INTERACTIVE_MUTED": [
-        "#42016b",
+        "#2c006c",
         "#c7ccd1"
       ],
       "BACKGROUND_PRIMARY": [
@@ -114,7 +114,7 @@
         "#f2f2f2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#111111",
+        "#42016b",
         "#ebedef"
       ],
       "CHANNELS_DEFAULT": [
@@ -128,6 +128,23 @@
       "KEYBOARD": [
         "#000001",
         "#FFFFFF"
+
+     ],
+     "CHANNEL_ICON": [
+         "#2c006c"
+
+     ],
+        "CHANNELS_DEFAULT": [
+        "#130043"
+
+    ],
+     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+         "#2c006c"
+
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+        "#2c006c"
+        
       ]
     },
     "colours": {
